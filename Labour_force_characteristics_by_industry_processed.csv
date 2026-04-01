@@ -1,0 +1,309 @@
+﻿industry,year,person_count_thousand
+"Total, all industries ",2015,6862.7
+"Total, all industries ",2016,6934.5
+"Total, all industries ",2017,7109.2
+"Total, all industries ",2018,7240.4
+"Total, all industries ",2019,7412.9
+"Total, all industries ",2020,7043.4
+"Total, all industries ",2021,7404.8
+"Total, all industries ",2022,7764.1
+"Total, all industries ",2023,8006.1
+"Total, all industries ",2024,8146.1
+"Total, all industries ",2025,8227
+Goods-producing sector ,2015,1401.7
+Goods-producing sector ,2016,1435.6
+Goods-producing sector ,2017,1463.5
+Goods-producing sector ,2018,1482.3
+Goods-producing sector ,2019,1476.3
+Goods-producing sector ,2020,1423.5
+Goods-producing sector ,2021,1480.9
+Goods-producing sector ,2022,1558.9
+Goods-producing sector ,2023,1619
+Goods-producing sector ,2024,1583.5
+Goods-producing sector ,2025,1575.5
+Agriculture ,2015,74
+Agriculture ,2016,75.9
+Agriculture ,2017,68.3
+Agriculture ,2018,71.9
+Agriculture ,2019,74.5
+Agriculture ,2020,68.2
+Agriculture ,2021,66.7
+Agriculture ,2022,72.3
+Agriculture ,2023,77.3
+Agriculture ,2024,71.7
+Agriculture ,2025,65.3
+"Forestry, fishing, mining, quarrying, oil and gas ",2015,41.3
+"Forestry, fishing, mining, quarrying, oil and gas ",2016,32.7
+"Forestry, fishing, mining, quarrying, oil and gas ",2017,32.5
+"Forestry, fishing, mining, quarrying, oil and gas ",2018,32.6
+"Forestry, fishing, mining, quarrying, oil and gas ",2019,34.8
+"Forestry, fishing, mining, quarrying, oil and gas ",2020,34.7
+"Forestry, fishing, mining, quarrying, oil and gas ",2021,35.4
+"Forestry, fishing, mining, quarrying, oil and gas ",2022,39.2
+"Forestry, fishing, mining, quarrying, oil and gas ",2023,43.2
+"Forestry, fishing, mining, quarrying, oil and gas ",2024,43.3
+"Forestry, fishing, mining, quarrying, oil and gas ",2025,44.6
+Forestry and logging and support activities for forestry,2015,7.2
+Forestry and logging and support activities for forestry,2016,6
+Forestry and logging and support activities for forestry,2017,5
+Forestry and logging and support activities for forestry,2018,5
+Forestry and logging and support activities for forestry,2019,4.6
+Forestry and logging and support activities for forestry,2020,7.5
+Forestry and logging and support activities for forestry,2021,5.8
+Forestry and logging and support activities for forestry,2022,5.6
+Forestry and logging and support activities for forestry,2023,5
+Forestry and logging and support activities for forestry,2024,5.1
+Forestry and logging and support activities for forestry,2025,5.3
+"Fishing, hunting and trapping",2015,x
+"Fishing, hunting and trapping",2016,x
+"Fishing, hunting and trapping",2017,x
+"Fishing, hunting and trapping",2018,x
+"Fishing, hunting and trapping",2019,x
+"Fishing, hunting and trapping",2020,x
+"Fishing, hunting and trapping",2021,x
+"Fishing, hunting and trapping",2022,x
+"Fishing, hunting and trapping",2023,x
+"Fishing, hunting and trapping",2024,x
+"Fishing, hunting and trapping",2025,x
+"Mining, quarrying, and oil and gas extraction ",2015,33
+"Mining, quarrying, and oil and gas extraction ",2016,26.6
+"Mining, quarrying, and oil and gas extraction ",2017,27.1
+"Mining, quarrying, and oil and gas extraction ",2018,27.3
+"Mining, quarrying, and oil and gas extraction ",2019,29.8
+"Mining, quarrying, and oil and gas extraction ",2020,26.4
+"Mining, quarrying, and oil and gas extraction ",2021,29
+"Mining, quarrying, and oil and gas extraction ",2022,33.4
+"Mining, quarrying, and oil and gas extraction ",2023,38
+"Mining, quarrying, and oil and gas extraction ",2024,38
+"Mining, quarrying, and oil and gas extraction ",2025,38.9
+Utilities,2015,49.5
+Utilities,2016,52
+Utilities,2017,48.2
+Utilities,2018,52.8
+Utilities,2019,51.2
+Utilities,2020,49.6
+Utilities,2021,53.4
+Utilities,2022,61.3
+Utilities,2023,64.5
+Utilities,2024,59.5
+Utilities,2025,66.3
+Construction,2015,469.8
+Construction,2016,492.4
+Construction,2017,514.5
+Construction,2018,526.2
+Construction,2019,539
+Construction,2020,532.1
+Construction,2021,543.2
+Construction,2022,588.4
+Construction,2023,605.4
+Construction,2024,578.9
+Construction,2025,577.5
+Manufacturing,2015,767.2
+Manufacturing,2016,782.6
+Manufacturing,2017,799.9
+Manufacturing,2018,798.8
+Manufacturing,2019,776.8
+Manufacturing,2020,738.9
+Manufacturing,2021,782.2
+Manufacturing,2022,797.7
+Manufacturing,2023,828.5
+Manufacturing,2024,830.2
+Manufacturing,2025,821.8
+Durables,2015,485.9
+Durables,2016,508.3
+Durables,2017,526.3
+Durables,2018,515.1
+Durables,2019,488
+Durables,2020,463.5
+Durables,2021,493.2
+Durables,2022,508.1
+Durables,2023,540.3
+Durables,2024,527.9
+Durables,2025,511.2
+Non-durables,2015,281.3
+Non-durables,2016,274.3
+Non-durables,2017,273.6
+Non-durables,2018,283.7
+Non-durables,2019,288.9
+Non-durables,2020,275.4
+Non-durables,2021,289
+Non-durables,2022,289.6
+Non-durables,2023,288.2
+Non-durables,2024,302.3
+Non-durables,2025,310.6
+Services-producing sector ,2015,5461
+Services-producing sector ,2016,5499
+Services-producing sector ,2017,5645.7
+Services-producing sector ,2018,5758.1
+Services-producing sector ,2019,5936.5
+Services-producing sector ,2020,5620
+Services-producing sector ,2021,5923.9
+Services-producing sector ,2022,6205.2
+Services-producing sector ,2023,6387.2
+Services-producing sector ,2024,6562.6
+Services-producing sector ,2025,6651.4
+Wholesale and retail trade,2015,1061.1
+Wholesale and retail trade,2016,1058.1
+Wholesale and retail trade,2017,1103.1
+Wholesale and retail trade,2018,1098.7
+Wholesale and retail trade,2019,1118.7
+Wholesale and retail trade,2020,1057.2
+Wholesale and retail trade,2021,1104.8
+Wholesale and retail trade,2022,1151.9
+Wholesale and retail trade,2023,1139.2
+Wholesale and retail trade,2024,1125.6
+Wholesale and retail trade,2025,1150.8
+Wholesale trade,2015,289.3
+Wholesale trade,2016,289.2
+Wholesale trade,2017,275
+Wholesale trade,2018,267.4
+Wholesale trade,2019,265
+Wholesale trade,2020,245.1
+Wholesale trade,2021,262.5
+Wholesale trade,2022,280.9
+Wholesale trade,2023,287.4
+Wholesale trade,2024,284.1
+Wholesale trade,2025,285.3
+Retail trade,2015,771.8
+Retail trade,2016,768.9
+Retail trade,2017,828.1
+Retail trade,2018,831.4
+Retail trade,2019,853.6
+Retail trade,2020,812.1
+Retail trade,2021,842.2
+Retail trade,2022,871
+Retail trade,2023,851.8
+Retail trade,2024,841.5
+Retail trade,2025,865.6
+Transportation and warehousing,2015,318.9
+Transportation and warehousing,2016,329.2
+Transportation and warehousing,2017,337.7
+Transportation and warehousing,2018,370.7
+Transportation and warehousing,2019,393.8
+Transportation and warehousing,2020,349.5
+Transportation and warehousing,2021,365
+Transportation and warehousing,2022,380.6
+Transportation and warehousing,2023,401.8
+Transportation and warehousing,2024,421.6
+Transportation and warehousing,2025,417.9
+"Finance, insurance, real estate, rental and leasing",2015,529.4
+"Finance, insurance, real estate, rental and leasing",2016,540.6
+"Finance, insurance, real estate, rental and leasing",2017,552.6
+"Finance, insurance, real estate, rental and leasing",2018,569.7
+"Finance, insurance, real estate, rental and leasing",2019,600
+"Finance, insurance, real estate, rental and leasing",2020,599
+"Finance, insurance, real estate, rental and leasing",2021,629.4
+"Finance, insurance, real estate, rental and leasing",2022,670.6
+"Finance, insurance, real estate, rental and leasing",2023,679.5
+"Finance, insurance, real estate, rental and leasing",2024,703.4
+"Finance, insurance, real estate, rental and leasing",2025,717.9
+Finance and insurance,2015,376.3
+Finance and insurance,2016,404.5
+Finance and insurance,2017,401.1
+Finance and insurance,2018,420
+Finance and insurance,2019,433.2
+Finance and insurance,2020,453.1
+Finance and insurance,2021,467
+Finance and insurance,2022,497
+Finance and insurance,2023,519
+Finance and insurance,2024,528.8
+Finance and insurance,2025,546
+Real estate and rental and leasing,2015,153
+Real estate and rental and leasing,2016,136
+Real estate and rental and leasing,2017,151.4
+Real estate and rental and leasing,2018,149.7
+Real estate and rental and leasing,2019,166.8
+Real estate and rental and leasing,2020,145.9
+Real estate and rental and leasing,2021,162.3
+Real estate and rental and leasing,2022,173.6
+Real estate and rental and leasing,2023,160.5
+Real estate and rental and leasing,2024,174.5
+Real estate and rental and leasing,2025,171.9
+"Professional, scientific and technical services",2015,571.6
+"Professional, scientific and technical services",2016,580.7
+"Professional, scientific and technical services",2017,620.9
+"Professional, scientific and technical services",2018,638.5
+"Professional, scientific and technical services",2019,676
+"Professional, scientific and technical services",2020,692.1
+"Professional, scientific and technical services",2021,757
+"Professional, scientific and technical services",2022,803
+"Professional, scientific and technical services",2023,836.9
+"Professional, scientific and technical services",2024,900
+"Professional, scientific and technical services",2025,911.1
+"Business, building and other support services ",2015,329.6
+"Business, building and other support services ",2016,312.9
+"Business, building and other support services ",2017,305.4
+"Business, building and other support services ",2018,318.3
+"Business, building and other support services ",2019,309.4
+"Business, building and other support services ",2020,283.9
+"Business, building and other support services ",2021,279.8
+"Business, building and other support services ",2022,282.6
+"Business, building and other support services ",2023,281.1
+"Business, building and other support services ",2024,290.7
+"Business, building and other support services ",2025,278.5
+Educational services,2015,509.4
+Educational services,2016,496.5
+Educational services,2017,492.7
+Educational services,2018,515.3
+Educational services,2019,532
+Educational services,2020,513.6
+Educational services,2021,552.1
+Educational services,2022,570.9
+Educational services,2023,580.1
+Educational services,2024,605.8
+Educational services,2025,601.4
+Health care and social assistance,2015,796
+Health care and social assistance,2016,817.5
+Health care and social assistance,2017,850.7
+Health care and social assistance,2018,850.1
+Health care and social assistance,2019,890.6
+Health care and social assistance,2020,857.8
+Health care and social assistance,2021,900.8
+Health care and social assistance,2022,935.9
+Health care and social assistance,2023,981.1
+Health care and social assistance,2024,1007.1
+Health care and social assistance,2025,1021.8
+"Information, culture and recreation",2015,296.7
+"Information, culture and recreation",2016,307.1
+"Information, culture and recreation",2017,305.4
+"Information, culture and recreation",2018,301.2
+"Information, culture and recreation",2019,304.9
+"Information, culture and recreation",2020,273.2
+"Information, culture and recreation",2021,298
+"Information, culture and recreation",2022,317.6
+"Information, culture and recreation",2023,326
+"Information, culture and recreation",2024,326.1
+"Information, culture and recreation",2025,352.8
+Accommodation and food services,2015,440.2
+Accommodation and food services,2016,441.9
+Accommodation and food services,2017,443.5
+Accommodation and food services,2018,465.6
+Accommodation and food services,2019,457.6
+Accommodation and food services,2020,345.9
+Accommodation and food services,2021,367.1
+Accommodation and food services,2022,395.8
+Accommodation and food services,2023,425.5
+Accommodation and food services,2024,420.5
+Accommodation and food services,2025,439.2
+Other services (except public administration),2015,264.9
+Other services (except public administration),2016,269.1
+Other services (except public administration),2017,278.3
+Other services (except public administration),2018,285.2
+Other services (except public administration),2019,290.8
+Other services (except public administration),2020,263.4
+Other services (except public administration),2021,258.4
+Other services (except public administration),2022,251.3
+Other services (except public administration),2023,273.1
+Other services (except public administration),2024,289.5
+Other services (except public administration),2025,288.7
+Public administration,2015,343.2
+Public administration,2016,345.5
+Public administration,2017,355.5
+Public administration,2018,344.5
+Public administration,2019,362.7
+Public administration,2020,384.3
+Public administration,2021,411.5
+Public administration,2022,445.1
+Public administration,2023,462.9
+Public administration,2024,472.3
+Public administration,2025,471.3
