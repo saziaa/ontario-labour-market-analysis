@@ -1,5 +1,6 @@
 # Ontario Labour Market Analysis 2015–2025
-### A SQL-based policy analysis of employment trends, COVID-19 impact, and structural labour force shifts using Statistics Canada data
+### A SQL analysis of Ontario employment trends, the COVID-19 shock, and industry-level shifts, using Statistics Canada data in MySQL.
+
 
 ## 📌 Policy Context
 
@@ -18,6 +19,21 @@ This analysis examines four policy-relevant questions:
    statistics obscure?
 
 The findings have direct relevance for income support program planning, workforce development policy, and regional labour market interventions.
+
+Ontario's labour market moved sharply between 2015 and 2025. In this dataset, unemployment peaked at 14.2% in May 2020. However, aggregate recovery statistics can hide differences between industries, and unemployment and participation did not tell the same story in every year.
+
+This analysis asks four questions:
+
+1. How did Ontario's employment, unemployment and participation rates move from 2015 to 2025, including through COVID-19?
+
+2. Which industries were hit hardest in 2020, and which had recovered their 2019 employment by 2022 and 2025?
+
+3. Which industries gained or lost share of total employment between 2015 and 2025?
+
+4. Did Ontario's unemployment recovery hide lingering labour force withdrawal, as measured by participation relative to 2019?
+
+The analysis is descriptive. It provides context for labour market and workforce policy discussions but does not establish causes.
+
 
 ## 🛢️ Data Sources
 
